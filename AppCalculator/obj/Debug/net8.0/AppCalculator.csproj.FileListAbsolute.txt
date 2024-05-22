@@ -12,3 +12,18 @@ C:\Users\harhi\source\repos\allProjects\AppCalculator\obj\Debug\net8.0\refint\Ap
 C:\Users\harhi\source\repos\allProjects\AppCalculator\obj\Debug\net8.0\AppCalculator.pdb
 C:\Users\harhi\source\repos\allProjects\AppCalculator\obj\Debug\net8.0\AppCalculator.genruntimeconfig.cache
 C:\Users\harhi\source\repos\allProjects\AppCalculator\obj\Debug\net8.0\ref\AppCalculator.dll
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\bin\Debug\net8.0\AppCalculator.exe
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\bin\Debug\net8.0\AppCalculator.deps.json
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\bin\Debug\net8.0\AppCalculator.runtimeconfig.json
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\bin\Debug\net8.0\AppCalculator.dll
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\bin\Debug\net8.0\AppCalculator.pdb
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.AssemblyInfoInputs.cache
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.AssemblyInfo.cs
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.sourcelink.json
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.dll
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\refint\AppCalculator.dll
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.pdb
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\AppCalculator.genruntimeconfig.cache
+C:\Users\harhi\OneDrive\Рабочий стол\ggit\calculator\AppCalculator\obj\Debug\net8.0\ref\AppCalculator.dll

@@ -10,8 +10,15 @@ namespace AppCalculator
             {
                 Console.Clear();
                 var expressionStr = CheckInput.Checker();
-                var res = new Calculator().Calculate(expressionStr);
-                Console.WriteLine("\nresult: {0};", res);
+                try
+                {
+                    var res = new Calculator().Calculate(expressionStr);
+                    Console.WriteLine("\nresult: {0};", res);
+                }
+                catch(CalcException e)
+                {
+                    Console.WriteLine("\nresult: {0};", e.Message);
+                }                
 
                 Helper.DisplayMessage("Try again? (y/n)");
 

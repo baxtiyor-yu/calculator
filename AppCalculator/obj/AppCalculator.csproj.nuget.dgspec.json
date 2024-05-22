@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harhi\\source\\repos\\allProjects\\AppCalculator\\AppCalculator.csproj": {}
+    "C:\\Users\\harhi\\OneDrive\\Рабочий стол\\ggit\\calculator\\AppCalculator\\AppCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harhi\\source\\repos\\allProjects\\AppCalculator\\AppCalculator.csproj": {
+    "C:\\Users\\harhi\\OneDrive\\Рабочий стол\\ggit\\calculator\\AppCalculator\\AppCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harhi\\source\\repos\\allProjects\\AppCalculator\\AppCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\harhi\\OneDrive\\Рабочий стол\\ggit\\calculator\\AppCalculator\\AppCalculator.csproj",
         "projectName": "AppCalculator",
-        "projectPath": "C:\\Users\\harhi\\source\\repos\\allProjects\\AppCalculator\\AppCalculator.csproj",
+        "projectPath": "C:\\Users\\harhi\\OneDrive\\Рабочий стол\\ggit\\calculator\\AppCalculator\\AppCalculator.csproj",
         "packagesPath": "C:\\Users\\harhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harhi\\source\\repos\\allProjects\\AppCalculator\\obj\\",
+        "outputPath": "C:\\Users\\harhi\\OneDrive\\Рабочий стол\\ggit\\calculator\\AppCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
